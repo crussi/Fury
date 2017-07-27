@@ -6,6 +6,7 @@ import {fadeInAnimation} from "../../../route.animation";
 import {PerfectScrollbarComponent} from "ngx-perfect-scrollbar";
 
 @Component({
+  //trigger
   selector: 'ms-chat',
   templateUrl: './chat.component.html',
   styleUrls: ['./chat.component.scss'],
